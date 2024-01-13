@@ -1,1 +1,2 @@
 This is example file in Git Repo
+Adding new line to this Text file in Branch "RK-Git-Branch1" --Update 1
